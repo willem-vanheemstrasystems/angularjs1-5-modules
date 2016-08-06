@@ -31,6 +31,10 @@ var myController = function($scope) {
 }
 ```
 
+#What is a model
+
+In AngularJS, the data that you attach to the scope is the model. Here e.g. 'message' is the model.
+
 #How to register a controller with a module
 
 ```javascript
